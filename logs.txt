@@ -1,0 +1,5 @@
+commit 4ed9d5d1aee056957676015243865514fe4190b8 (HEAD -> logs, origin/master, master)
+Author: unknown <Petarche.Lazarevski@students.finki.ukim.mk>
+Date:   Thu Apr 4 09:39:32 2019 +0200
+
+    Initial commit
